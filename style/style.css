@@ -1,0 +1,27 @@
+/*
+  Polices d'écriture
+*/
+@font-face {
+  font-family: 'ColorTube-Regular';
+  src: url('ColorTube-Regular.otf'),
+       url('ColorTube-Regular.ttf');
+}
+
+
+/*
+  Style des paragraphes
+*/
+p {
+  color: blue;
+  font-size: 1.5em;
+  font-family: 'ColorTube-Regular', Arial, serif;
+}
+
+img {
+  max-width: 50%;
+  float: left;
+}
+
+.underimg {
+  clear: both
+}
