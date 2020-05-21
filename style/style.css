@@ -9,16 +9,20 @@
 
 
 /*
-  Style des paragraphes
+  Style des textes
 */
-p {
-  color: blue;
+
+h1 {
   font-size: 1.5em;
   font-family: 'ColorTube-Regular', Arial, serif;
 }
 
+p {
+  font-size: 1em;
+}
+
 img {
-  max-width: 50%;
+  max-width: 25%;
   float: left;
 }
 
